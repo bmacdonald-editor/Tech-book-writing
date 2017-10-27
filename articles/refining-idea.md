@@ -1,0 +1,4 @@
+# Refining Your Tech Book Idea
+
+If you're thinking of writing a technical book, you probably have an idea of what you want to write about. Right now, that idea is probably a thing, a noun: some language, some tool, some framework, some management technique. That's a pretty common place to start, but it's not enough for a book, not in the current publishing environment. If you start by thinking "I want to write about CoolFramework.js," then you'll probably start by listing features or components, and explaining how to use each feature in turn until you run out of them. That's useful information, but it's documentation, not a tech book. Documentation serves a purpose, but it's a fundamental part of the product itself. Users shouldn't have to go to a store and buy documentation. Documentation is usually available on the Internet, for free, and that's not the right model for a tech book.
+
