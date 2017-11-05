@@ -18,9 +18,13 @@ If your target publisher has no books that are similar, that can be a good sign,
 
 ## Work Your Network
 
-Unfortunately, publishing is still about who you know, more than what you know. What you're looking for is an "acquisitions editor," a person at a publisher whose job is to find new markets, authors, and proposals. For smaller publishers, you may find them listed on the company website, with contact information if you're lucky. If not, you'll have to go find them. Sometimes you can find an acquisitions editor at a conference where the publisher is a sponsor, if they have a booth. Even if there's not an acquisitions editor on site at the time, the staff at the booth can put you in touch with one. 
+Identifying a publisher is only the first step. Unfortunately, publishing is still about who you know, more than what you know. What you're looking for is an "acquisitions editor," the editor whose job is to find new markets, authors, and proposals. If you know someone who has connections with a publisher, ask for an introduction to an acquisitions editor. These editors often specialize in particular subject areas, particularly at larger publishers, but you don't need to find the right one yourself. They're usually happy to connect you with the correct person. 
 
-If conferences aren't your thing, you'll need to work your network. If you have an acquaintance who's written, ask for an introduction to their editor. If not, try LinkedIn, or search for the publisher's name on Twitter. It may feel creepy to e-mail a stranger to ask about your book, but making contact is what acquisitions editors do. They probably won't be offended if you contact them via social media, although they may ask to continue the discussion via e-mail. Once you've made contact, the acquisitions editor can walk you through the proposal process.
+Sometimes you can find an acquisitions editor at a technical conference, especially one where the publisher is a sponsor, and has a booth. Even if there's not an acquisitions editor on site at the time, the staff at the booth can put you in touch with one. If conferences aren't your thing, you'll need to work your network to get an introduction. Use LinkedIn, or your informal contacts, to get in touch with an editor.
+
+For smaller publishers, you may find acquisitions editors listed on the company website, with contact information if you're lucky. If not, search for the publisher's name on Twitter. You might be nervous about trying to reach out to a stranger over social media to show them your book, but making contact is what acquisitions editors do. 
+
+Once you've made contact, the acquisitions editor will assist you with the next steps. They may have some feedback on your proposal
 
 ## If All Else Fails
 
