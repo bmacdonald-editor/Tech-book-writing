@@ -1,6 +1,10 @@
 # Finding a Publisher
 
-You have an idea, you've refined it, and you've decided you want to approach a traditional publisher. Now what?
+[snappy opening]
+
+First, spend a bit of time refining your idea, figuring out exactly what subject you want to cover, and who your prospective book is for. You should also consider whether you want to work with a traditional publisher or try self-publishing. These are fairly complex topics that I'm going to skip over here. I've provided some advice on those matters in [my talk at SeaGL 2017](https://archive.org/details/SeaGL2017WritingTheNextGreatTechBook). 
+
+Assuming you've decided that traditional publishing is for you, your next task is to get your book in front of a publisher and hopefully start on the path to publication. <Do I lay out my street cred here, or leave it for an author bio?> I'll help you with the task of putting your metaphorical best foot forward, and avoiding missteps.
 
 ## Identify Your Target
 
