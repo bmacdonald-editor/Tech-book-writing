@@ -6,9 +6,9 @@ You've got an idea for a technical book -- congratulations! Like a hiking the Ap
 
 Before you take the step of approaching a publisher, spend a bit of time refining your idea, figuring out exactly what subject you want to cover, and who your prospective book is for. You should also consider whether you want to work with a traditional publisher or try self-publishing. These are fairly complex topics that I won't discuss in detail here here. I've provided some advice in [my talk at SeaGL 2017](https://archive.org/details/SeaGL2017WritingTheNextGreatTechBook). 
 
-Assuming you've decided that traditional publishing is for you, your next task is to get your book in front of a publisher and hopefully start on the path to publication. I'm currently the Managing Editor at the [Pragmatic Bookshelf](https://pragprog.com/), so I see proposals all the time, as well as helping authors to craft good ones. Some are good, others are bad, but I often see proposals that just aren't right for Pragmatic. I'll help you with the process of finding the right publisher, and how to get your idea noticed.
+Assuming you've decided that traditional publishing is for you, your next task is to get your book in front of a publisher and hopefully start on the path to publication. I'm the Managing Editor at the [Pragmatic Bookshelf](https://pragprog.com/), so I see proposals all the time, as well as helping authors to craft good ones. Some are good, others are bad, but I often see proposals that just aren't right for Pragmatic. I'll help you with the process of finding the right publisher, and how to get your idea noticed.
 
-## Identify Your Target
+## Identify your target
 
 Your first step is to figure out which publisher is the a good fit for your idea. To start, think about the publishers that you buy books from, and that you enjoy. The odds are pretty good that your book will appeal to people like you, so starting with your favorites makes for a pretty good short list. If you don't have much of a book collection, you can visit a bookstore, or take a look on Amazon. Make a list of a handful of publishers that you personally like to start with.
 
@@ -18,7 +18,7 @@ Once you've identified a few targets, do some more research into the publishers'
 
 If your target publisher has no books that are similar, that can be a good sign, or a very bad one. Sometimes publishers choose not to publish on specific technologies, either because they don't believe their audience is interested, or they've had trouble with that technology in the past. New languages and libraries pop up all the time, and publishers have to make informed guesses about which will appeal to their readers. Their assessment may not be the same as yours. Their decision might be final, or they might be waiting for the right proposal. The only way to know is to propose and find out.
 
-## Work Your Network
+## Work your network
 
 Identifying a publisher is the first step; now you need to make contact. Unfortunately, publishing is still about who you know, more than what you know. The person you want to know is an *acquisitions editor,* the editor whose job is to find new markets, authors, and proposals. If you know someone who has connections with a publisher, ask for an introduction to an acquisitions editor. These editors often specialize in particular subject areas, particularly at larger publishers, but you don't need to find the right one yourself. They're usually happy to connect you with the correct person. 
 
@@ -28,7 +28,7 @@ For smaller publishers, you may find acquisitions editors listed on the company 
 
 Once you've made contact, the acquisitions editor will assist you with the next steps. They may have some feedback on your proposal right away, or they may want you to flesh it out according to their guidelines before they'll consider it. After you've put in the effort to find an acquisitions editor, listen to their advice. They know their system better than you do.
 
-## If All Else Fails
+## If all else fails
 
 If you can't find an acquisitions editor to contact, the publisher almost certainly has a blind proposal alias, usually of the form proposals@[publisher].com. Check the web site for instructions on what to send to a proposal alias; some publishers have very specific requirements. Follow these instructions. If you don't, you have a good chance of your proposal getting thrown out before anybody looks at it. If you have questions, or aren't sure what the publisher wants, you'll need to try again to find an editor to talk to, because the proposal alias is not the place to get questions answered. Put together what they've asked for (which is a topic for a separate another article), send it in, and hope for the best.
 
