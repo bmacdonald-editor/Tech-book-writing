@@ -30,7 +30,7 @@ Once you've made contact, the acquisitions editor will assist you with the next 
 
 ## If all else fails
 
-If you can't find an acquisitions editor to contact, the publisher almost certainly has a blind proposal alias, usually of the form proposals@[publisher].com. Check the web site for instructions on what to send to a proposal alias; some publishers have very specific requirements. Follow these instructions. If you don't, you have a good chance of your proposal getting thrown out before anybody looks at it. If you have questions, or aren't sure what the publisher wants, you'll need to try again to find an editor to talk to, because the proposal alias is not the place to get questions answered. Put together what they've asked for (which is a topic for a separate another article), send it in, and hope for the best.
+If you can't find an acquisitions editor to contact, the publisher almost certainly has a blind proposal alias, usually of the form `proposals@[publisher].com`. Check the web site for instructions on what to send to a proposal alias; some publishers have very specific requirements. Follow these instructions. If you don't, you have a good chance of your proposal getting thrown out before anybody looks at it. If you have questions, or aren't sure what the publisher wants, you'll need to try again to find an editor to talk to, because the proposal alias is not the place to get questions answered. Put together what they've asked for (which is a topic for a separate another article), send it in, and hope for the best.
 
 ## And...wait
 
