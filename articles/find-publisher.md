@@ -32,12 +32,12 @@ Once you've made contact, the acquisitions editor will assist you with the next 
 
 If you can't find an acquisitions editor to contact, the publisher almost certainly has a blind proposal alias, usually of the form proposals@[publisher].com. Check the web site for instructions on what to send to a proposal alias; some publishers have very specific requirements. Follow these instructions. If you don't, you have a good chance of your proposal getting thrown out before anybody looks at it. If you have questions, or aren't sure what the publisher wants, you'll need to try again to find an editor to talk to, because the proposal alias is not the place to get questions answered. Put together what they've asked for (which is a topic for a separate another article), send it in, and hope for the best.
 
-## And...Wait
+## And...wait
 
 No matter how you've gotten in touch with a publisher, you'll probably have to wait. If you submitted to the proposals alias, it's going to take a while before somebody does anything with that proposal, especially at a larger company. Even if you've found an acquisitions editor to work with, you're probably one of many prospects she's working with simultaneously, so you might not get rapid responses. Almost all publishers have a committee that decides on which proposals to accept, so even if your proposal is awesome and ready to go, you'll still need to wait for the committee to meet and discuss it. You might be waiting several weeks, or even a month before you hear anything.
 
 After a couple of weeks, it's fine to check back in with the editor to see if they need any more information. You want to be polite in this e-mail; if they haven't answered because they're swamped with proposals, being pushy isn't going to get you to the front of the line. It's possible that some publishers will never respond at all instead of sending a rejection notice, but that's uncommon. There's not a lot to do at this point other than be patient. Of course, if it's been months and nobody's returning your e-mails, you're free to approach a different publisher or consider self-publishing.
 
-## Good Luck
+## Good luck
 
-If this process seems somewhat scattered and unscientific, you're right; it is. Getting published depends on being in the right place, at the right time, talking to the right person, and hoping they're in the right mood. 
+If this process seems somewhat scattered and unscientific, you're right; it is. Getting published depends on being in the right place, at the right time, talking to the right person, and hoping they're in the right mood. You can't control all of those variables, but having a better knowledge of how the industry works, and what publishers are looking for, can help you optimize the ones you can control.
