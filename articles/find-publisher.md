@@ -1,4 +1,6 @@
-# Finding a Publisher
+# Finding a technical publisher for your book idea
+
+<sub>Writing a technical book takes more than a good idea. You need to know a bit how the publishing industry works.</sub>
 
 You've got an idea for a technical book -- congratulations! Like a hiking the Appalachian trail, or learning to cook a souffle, writing a book is one of those things that people talk about, but never take beyond the idea stage. That makes sense, because the failure rate is pretty high. Making it real involves putting your idea in front of a publisher, and finding out whether it's good enough to become a book. That step is scary enough, but the lack of information about how to do it complicates matters.
 
