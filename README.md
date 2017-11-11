@@ -4,8 +4,8 @@ The purpose of this repo is to contain various articles related to the practice 
 
 ## Contents
 
-* Why write a tech book?
-* Refining an idea
+* [Why write a tech book?](articles/why-write.md)
+* [Refining an idea](articles/refining-idea.md)
 * Finding and contacting a publisher
 * Self-publishing
 * How to create a proposal
