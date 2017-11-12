@@ -50,9 +50,17 @@ You may get a new primary contact at this point, probably with a title like Prod
 
 ## Copyeditor
 
+The copyeditor (CE) is the next person who'll read your manuscript, almost always a freelancer, and she handles the grammatical issues. This is more than just commas, periods, and spelling, though. The CE remembers all the rules of writing that you've probably forgotten, knows about dangling modifiers, passive constructions, and when you should use "which" instead of "that." She's also going to be looking to improve your clarity, and adjust your writing to keep the reader engaged. Some of these changes can be rewrites. However, a good CE will use queries rather than making major changes that could affect the meaning of the text.
+
+Unlike the DE stage, the CE will likely edit the entire manuscript in one shot, over the course of a few weeks, and you won't see it until it's done. Depending on the publisher's policy, you may be able to see (and possibly change) anything in the manuscript at this point, or you may be asked to just respond to the queries. Most copyeditors do a good job, but if you're uncomfortable about anything, ask your contact person. If you do see the manuscript at this point, you'll probably only have a few days with it, so plan accordingly.
+
 ## Proofreader
 
+Some publishers employ a proofreader, but not all do. This role is almost always a freelancer, again, and her role is to function as another set of eyes on the book before it's done. There have been a lot of changes through the development and copyedit stages, so the proofreader makes sure that nothing got dropped or moved around that shouldn't have been. She usually reads the book from beginning to end, and flags anything that doesn't look right, including any grammatical errors that got missed. If this goes well, there shouldn't be any queries, so you'll only see the manuscript again at this point if there's a serious problem.
+
 ## Layout Specialist
+
+
 
 ## Indexer
 
