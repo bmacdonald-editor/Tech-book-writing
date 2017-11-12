@@ -7,10 +7,10 @@ The purpose of this repo is to contain various articles related to the practice 
 * [Why write a tech book?](articles/why-write.md)
 * [Refining an idea](articles/refining-idea.md)
 * [Finding and contacting a publisher](articles/find-publisher.md)
-* [Self-publishing](self-publishing.md)
-* [How to create a proposal](create-proposal.md)
-* [How to deal with rejection](rejection.md)
-* [What to expect from the publishing process](publishing-process.md)
+* [Self-publishing](articles/self-publishing.md)
+* [How to create a proposal](articles/create-proposal.md)
+* [How to deal with rejection](articles/rejection.md)
+* [What to expect from the publishing process](articles/publishing-process.md)
 
 ## Stuff to be added
 
