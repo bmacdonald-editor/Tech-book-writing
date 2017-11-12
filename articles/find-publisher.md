@@ -4,9 +4,7 @@
 
 You've got an idea for a technical book -- congratulations! Like a hiking the Appalachian trail, or learning to cook a souffl&#233;, writing a book is one of those things that people talk about, but never take beyond the idea stage. That makes sense, because the failure rate is pretty high. Making it real involves putting your idea in front of a publisher, and finding out whether it's good enough to become a book. That step is scary enough, but the lack of information about how to do it complicates matters.
 
-Before you take the step of approaching a publisher, spend a bit of time refining your idea, figuring out exactly what subject you want to cover, and who your prospective book is for. You should also consider whether you want to work with a traditional publisher or try self-publishing. These are fairly complex topics that I won't discuss in detail here. I've provided some advice in [my talk at SeaGL 2017](https://archive.org/details/SeaGL2017WritingTheNextGreatTechBook). 
-
-Assuming you've decided that traditional publishing is for you, your next task is to get your book in front of a publisher and hopefully start on the path to publication. I'm the Managing Editor at the [Pragmatic Bookshelf](https://pragprog.com/), so I see proposals all the time, as well as helping authors to craft good ones. Some are good, others are bad, but I often see proposals that just aren't right for Pragmatic. I'll help you with the process of finding the right publisher, and how to get your idea noticed.
+If you want to work with a traditional publisher, you'll need to get your book in front of them and hopefully start on the path to publication. I'm the Managing Editor at the [Pragmatic Bookshelf](https://pragprog.com/), so I see proposals all the time, as well as helping authors to craft good ones. Some are good, others are bad, but I often see proposals that just aren't right for Pragmatic. I'll help you with the process of finding the right publisher, and how to get your idea noticed.
 
 ## Identify your target
 
@@ -41,3 +39,5 @@ After a couple of weeks, it's fine to check back in with the editor to see if th
 ## Good luck
 
 If this process seems somewhat scattered and unscientific, you're right; it is. Getting published depends on being in the right place, at the right time, talking to the right person, and hoping they're in the right mood. You can't control all of those variables, but having a better knowledge of how the industry works, and what publishers are looking for, can help you optimize the ones you can control.
+
+Finding a publisher is one step in a lengthy process. You need to refine your idea and create the proposal, as well as other considerations. At SeaGL this year [I presented](https://archive.org/details/SeaGL2017WritingTheNextGreatTechBook) an introduction to the entire process. Check out [the video](https://archive.org/details/SeaGL2017WritingTheNextGreatTechBook) for more detailed information.
