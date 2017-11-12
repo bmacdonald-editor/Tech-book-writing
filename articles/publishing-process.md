@@ -40,6 +40,14 @@ Usually you won't have direct contact with the tech reviewers. Your project edit
 
 ## Production!
 
+The Production date is a big milestone in the life of your book. When you get to Production, your book should be "feature complete" -- you've said everything you want to say, crossed off any TODOs, your DE has read everything at least once, and you've resolved any outstanding queries. The publisher will likely treat this deadline as set in stone, because there's a lot of coordination around the next steps.
+
+Everybody before this point in your book's life has cared more about the content than the presentation. That is, getting your message across is more important than how you formatted a table, or whether the figure numbers were consecutive. Everybody after this point is concerned with presentation more than content, which is why you need to be "feature complete" at this stage. You won't normally have the opportunity to write new paragraphs or make major changes to code.
+
+That said, this is tech publishing, and we know that sometimes major changes happen to the product you're writing about. That's an emergency, but it's one we're used to. The key is communication -- if you think a major version of a product is immanent, let your editor know in advance. If there's a major change that you didn't see coming, let your editor know as soon as you can.
+
+You may get a new primary contact at this point, probably with a title like Production Editor, although it varies. If there is a Production Editor, she'll coordinate the next several steps, most of which are done by freelancers. If not, your development editor or project editor remains your primary contact, and should give you an outline of what's going to happen next. Some of these next steps need your input, and usually have short turnaround times. If you get confused, ask. 
+
 ## Copyeditor
 
 ## Proofreader
