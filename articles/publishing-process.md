@@ -60,13 +60,21 @@ Some publishers employ a proofreader, but not all do. This role is almost always
 
 ## Layout Specialist
 
+Somewhere during this process, your book will go through "layout" -- the process of making your text look like a finished book in the publisher's house style. Exactly how this works depends on the publisher's toolchain. Some publishers, especially in tech, have scripts that will take your raw text files and turn them into a good approximation of the house design, in PDF form. You may have had access to them while you were writing. Other publishers will work in Microsoft Word or another tool until after copyedit, and do the layout at that point. Either way, at some point a layout technician will go through the book and fix its visual appearance -- making sure figures are near the point in text where they're discussed, making sure code blocks stay together, adjusting any spacing issues, and other things unique to the layout stage. 
 
+You should have a chance to see the book once it's been laid out. At this point, you're only concerned with visual issues, not what the text says. If the wrong figure was inserted, or lines of code are getting cut off, or chapters accidentally got out of order, that's what you need to point out now. You'll probably have a very short time to do this review, often just a day or two.
 
 ## Indexer
 
+Even in this age of ebooks, indexes are still important, and they're still created by humans. The indexer comes in as late in the book as possible, so that any changes in the copyedit or proofreading stage will be resolved. Indexing take special training, and I don't advise that you try to do it yourself, even if the publisher offers. Instead, I suggest you make a list of the 10 to 12 items that absolutely must be in an index for your book. When you get the index for review, make sure those items are there, skim over the rest, and trust the indexer. You'll probably have about a day to review the index, so it's not in your best interest to obsess over it.
+
 ## Off to Print
 
+Once all of the Production tasks are done, the book is finished. Usually the publisher will release the ebook right away, and make an official announcement about it. You'll have to wait a bit for your print copies, though (and that's what you're really looking forward to, right?). The same files used for the ebook are sent to a printer (or a print-on-demand service), and it may take anywhere from a few days to a few weeks before you get a copy, depending on the exact process, the size of your book, and how many are being printed. However it's done, one of the first copies off the press should be sent directly to you, and you should absolutely celebrate as you see fit when you get it.
+
 ## Marketing and Promotion
+
+Once you have the book, you're done, right? No, of course not. 
 
 ## Other fun stuff
 
