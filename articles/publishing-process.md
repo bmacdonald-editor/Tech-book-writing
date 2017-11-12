@@ -34,6 +34,10 @@ Other things the PE (or DE) will handle include getting the marketing process st
 
 ## Technical Reviewer
 
+The Technical Reviewer (sometimes Technical Editor, or TE) is almost always someone outside the publisher, usually an expert in whatever topic the book is about. Many publishers use just one reviewer per book; some use two or three. A few publishers crowdsource their reviews, for a variety of opinions. Some reviewers are volunteers; others get a small honorarium as a thank-you. Either way, it's not a replacement income. The technical reviewers are instructed to hit the book hard -- test every line of code, try every procedure, consider every opinion, and comment when something's wrong. Sometimes the feedback can be overwhelming, but that's for a reason. Either tech reviewers find this stuff now, or customers find it after the book comes out, and comment on Amazon. As with the DE comments, you don't have to take every tech comment as a direct order. Sometimes they're just differences of opinion, in which case, the person with their name on the cover gets the last word. But if a tech reviewer says that the code doesn't work on his machine, that's worth paying attention to.
+
+Usually you won't have direct contact with the tech reviewers. Your project editor may ask you for recommendations, especially if you're writing about a specialized topic. Before you pick one of your friends or colleagues to be a reviewer, consider whether they'll give you the tough review that will really improve your book. Either way, be sure to thank all your reviewers in the book's acknowledgments. They're providing a critical service.
+
 ## Production!
 
 ## Copyeditor
