@@ -11,3 +11,11 @@ The purpose of this repo is to contain various articles related to the practice 
 * [How to create a proposal](create-proposal.md)
 * [How to deal with rejection](rejection.md)
 * [What to expect from the publishing process](publishing-process.md)
+
+## Stuff to be added
+
+* What's in a Contract
+* Betas
+* Errata
+* How to promote
+
