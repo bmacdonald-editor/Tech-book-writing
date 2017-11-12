@@ -74,10 +74,6 @@ Once all of the Production tasks are done, the book is finished. Usually the pub
 
 ## Marketing and Promotion
 
-Once you have the book, you're done, right? No, of course not. 
+Once you have the book, you're done, right? No, of course not. Depending on your publisher, they may or may not have a marketing department to assist you in promoting your book. No matter how much your publisher assists, though, your biggest weapon is: you. You know the most about the book, and you're best suited to spread the word.
 
-## Other fun stuff
-
-### Betas
-
-### Errata
+Fortunately, the best thing you can do to promote is be a good member of your community. Make yourself visible, not as a person selling a book, but as a person who contributes and shares. Speak at conferences or meetups. Answer questions on Stack Overflow (or whatever forum is appropriate for your technology). Be active on social media, talking about issues that relate to your technology. After you've contributed and helped someone, you say, "And if you'd like to know more, I've written a book about this," and provide a link. If the content you're providing is valuable, potential customers will seek out your book. It sounds grass-roots and maybe a little old-fashioned, but the best way to sell your content is to prove that your content is valuable. Your publisher will have other suggestions, and maybe even specific plans, but participating will get you better results than just sitting back and waiting for the royalties.
